@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Info Pig",
+  title: "Info-pig",
   description: "Site de informações sobre porcos!",
 };
 
